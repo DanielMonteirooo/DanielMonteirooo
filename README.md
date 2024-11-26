@@ -6,15 +6,6 @@
 - 🔎 I'm looking for intern opportunities.
 - 💬 Ask me anything!
 
-## 📊 My Github Status:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielMonteirooo&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielMonteirooo&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
-</a>
-
 ## 🖥️ My Skills/Languages:
 
 <div style="display: inline_block"><br>
@@ -27,12 +18,6 @@
   <img align="center" alt="Dani-C++" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Dani-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Dani-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  
-  
-
-          
-  
-          
   
 </div>
 
