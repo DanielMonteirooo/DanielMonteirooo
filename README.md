@@ -1,8 +1,8 @@
 ## Hey, I'm Daniel! 👋
 
-- ✍️ I’m a Computer Science Undergraduate at UnB [University of Brasília](https://www.unb.br/).  
+- ✍️ I’m a Computer Science at UnB [University of Brasília](https://www.unb.br/).  
 - 🌱 I’m currently learning about Cloud, Bitcoin, Point Clouds, Machine Learning and Data analysis.
-- 🔎 I'm looking for intern opportunities.
+- 🔎 I'm looking for job opportunities.
 - 💬 Ask me anything!
 
 ## 🖥️ My Skills/Languages:
